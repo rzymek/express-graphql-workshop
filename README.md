@@ -202,7 +202,7 @@ You can clone repo and checkout to commit with particular step
 1. Create `types` subfolder in `graphql` folder. Then create `event-type.js` and `participant-type.js` files in it.
     ```bash
 	$ cd graphql
-	$ mkdir types && cd touch
+	$ mkdir types && cd types
 	$ touch event-type.js participant-type.js
 	```
 
